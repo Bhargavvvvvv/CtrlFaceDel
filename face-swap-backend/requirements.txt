@@ -3,4 +3,5 @@ uvicorn
 insightface
 opencv-python-headless
 numpy
+requests
 python-multipart
