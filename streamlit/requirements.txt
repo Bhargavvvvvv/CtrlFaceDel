@@ -2,3 +2,5 @@ streamlit
 onnxruntime
 Pillow
 numpy
+requests
+tqdm
